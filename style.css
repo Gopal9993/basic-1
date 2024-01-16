@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    justify-self: center;
+   width: fit-content;
+}
+.header{
+    background-color: #333333;
+    color: #C0BAB6;
+}
+ul{
+    padding: 20px;
+}
+.main{
+    color: #979797;
+}
+.para{
+    color: #979797;
+}
+.footer{
+    color: #FFFFFF;
+  background-color: #1E1E1E;
+}
+.footer-bottom{
+    display: flex;
+justify-content: space-between;
+}
